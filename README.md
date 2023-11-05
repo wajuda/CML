@@ -12,8 +12,7 @@ The code repository of the article "Cascadic Multi-Receptive Learning for Multis
 ## Visual result
 
 1. Reduced resolution
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-<img width="533" alt="1" src="https://github.com/wajuda/CML/assets/112617153/f80aae2f-7c82-42b6-a6fb-a2b01574f917"> | <img width="533" alt="2" src="https://github.com/wajuda/CML/assets/112617153/f719ac9b-de24-4f9f-9070-a80f0fbf5bde">
+
+<img width="200" alt="1" src="https://github.com/wajuda/CML/assets/112617153/f80aae2f-7c82-42b6-a6fb-a2b01574f917"> | <img width="200" alt="2" src="https://github.com/wajuda/CML/assets/112617153/f719ac9b-de24-4f9f-9070-a80f0fbf5bde">
 
 3. Full resolution
