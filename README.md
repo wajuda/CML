@@ -13,10 +13,11 @@ The code repository of the article "Cascadic Multi-Receptive Learning for Multis
 
 1. Reduced resolution
 
-![pan](https://github.com/wajuda/CML/assets/112617153/a151a831-0e9c-47e1-8d35-fe1e206af9f8 "PAN")  <img width="450" alt="2" src="https://github.com/wajuda/CML/assets/112617153/f719ac9b-de24-4f9f-9070-a80f0fbf5bde" title="Result">
+ <img width="450" alt="d29542beb8be882172dcd43a74881d7" src="https://github.com/wajuda/CML/assets/112617153/c43a2086-a58e-4884-9b5a-3b381dcd7873" title="PAN">
+<img width="450" alt="597307223ad7bed6a2f0528c32adc77" src="https://github.com/wajuda/CML/assets/112617153/bc1b6ca1-3186-4181-aac2-bdd3ed660a6d" title="Result"> 
 
 2. Full resolution
    
-<img width="450" alt="9d1709936d2e387bd49440115c82f22" src="https://github.com/wajuda/CML/assets/112617153/4e0e61e4-7e60-43b5-bfa2-67c620e0645f" title="PAN">  <img width="450" alt="597307223ad7bed6a2f0528c32adc77" src="https://github.com/wajuda/CML/assets/112617153/bc1b6ca1-3186-4181-aac2-bdd3ed660a6d" title="Result">
+<img width="450" alt="9d1709936d2e387bd49440115c82f22" src="https://github.com/wajuda/CML/assets/112617153/4e0e61e4-7e60-43b5-bfa2-67c620e0645f" title="PAN">  <img width="450" alt="2" src="https://github.com/wajuda/CML/assets/112617153/f719ac9b-de24-4f9f-9070-a80f0fbf5bde" title="Result">
 
 
