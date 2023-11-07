@@ -25,36 +25,36 @@
 
 ## Datasets
 
-### training datasets
+### 1. training datasets
 
 [PanCollection](https://liangjiandeng.github.io/PanCollection.html)
 
-### testing datasets
+### 2. testing datasets
 
-(https://pan.baidu.com/s/1UouPDZKYc8F_qBR4iPaD5g?pwd=d5pc)
+[pan.baidu](https://pan.baidu.com/s/1UouPDZKYc8F_qBR4iPaD5g?pwd=d5pc)
 
 ## Results
 
 ### 1. Quantitative results
 
-#### Single example
+#### a. Single example
 
 ![HPBX2 7O){T{LQRQH2JG408](https://github.com/wajuda/CML/assets/112617153/f8d91d81-272c-4e16-a9f8-bab834db3b81)
 
 
-#### Multiple examples
+#### b. Multiple examples
 
 ![DM QYX`8}0{(EXM`{%T27(H](https://github.com/wajuda/CML/assets/112617153/0b7523f8-f27b-4d72-a973-30f081bced62)
 
 
 ### 2. Visual results
 
-#### Reduced resolution
+#### a. Reduced resolution
 
  <img width="450" alt="d29542beb8be882172dcd43a74881d7" src="https://github.com/wajuda/CML/assets/112617153/c43a2086-a58e-4884-9b5a-3b381dcd7873" title="PAN">
 <img width="450" alt="597307223ad7bed6a2f0528c32adc77" src="https://github.com/wajuda/CML/assets/112617153/bc1b6ca1-3186-4181-aac2-bdd3ed660a6d" title="Result"> 
 
-#### Full resolution
+#### b. Full resolution
    
 <img width="450" alt="9d1709936d2e387bd49440115c82f22" src="https://github.com/wajuda/CML/assets/112617153/4e0e61e4-7e60-43b5-bfa2-67c620e0645f" title="PAN">  <img width="450" alt="2" src="https://github.com/wajuda/CML/assets/112617153/f719ac9b-de24-4f9f-9070-a80f0fbf5bde" title="Result">
 
