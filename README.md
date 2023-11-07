@@ -1,4 +1,4 @@
-# The code repository of the article "Cascadic Multi-Receptive Learning for Multispectral Pansharpening".
+# Cascadic Multi-Receptive Learning for Multispectral Pansharpening
 
 ## How to use?
 - Directly run: ``test.py`` for the single WV3 example
@@ -15,17 +15,27 @@
 ```
 
 ## Motivations
-### CML-resblock
+### 1. CML-resblock
 #### A CML-resblock (see Sec. \ref{sec:CML}) is proposed to extract information from different scales in a step-by-step manner. Specifically, every pixel of the output is able to perceive multi-scale information through a cascade-like connection strategy, which is an efficient and effective multi-receptive learning process.
 ![comparisonforconv](https://github.com/wajuda/CML/assets/112617153/84d37822-6355-4978-91fb-3557dd2a4e4d)
 
-### Multiplication network structure
+### 2. Multiplication network structure
 #### Inspired by the traditional multiplicative injection model for pansharpening, we design the novel multiplication network structure (see Sec. \ref{sect:multi}) to learn the coefficients of the restoration mapping.
 ![network](https://github.com/wajuda/CML/assets/112617153/96c5066d-fd8a-474d-917d-0789e6ede797)
 
+## Datasets
+
+### training datasets
+
+[PanCollection](https://liangjiandeng.github.io/PanCollection.html)
+
+### testing datasets
+
+(https://pan.baidu.com/s/1UouPDZKYc8F_qBR4iPaD5g?pwd=d5pc)
+
 ## Results
 
-### Quantitative results
+### 1. Quantitative results
 
 #### Single example
 
@@ -37,7 +47,7 @@
 ![DM QYX`8}0{(EXM`{%T27(H](https://github.com/wajuda/CML/assets/112617153/0b7523f8-f27b-4d72-a973-30f081bced62)
 
 
-### Visual results
+### 2. Visual results
 
 #### Reduced resolution
 
